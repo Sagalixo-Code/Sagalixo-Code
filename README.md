@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/26/bf/78/26bf782e4b668cef6975a0fb81fee731.gif" width="500">
+  <img src="https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/franchises/star-wars/star-wars-landscape.gif" width="700">
 </p>
