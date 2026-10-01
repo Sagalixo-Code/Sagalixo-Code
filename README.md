@@ -8,3 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code">
 </p>
+<p align="center">
+  <img src="https://github-readme-utils.vercel.app/api/gif/anime" height="250" alt="Anime GIF">
+</p>
