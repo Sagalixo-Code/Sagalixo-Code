@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/franchises/star-wars/star-wars-landscape.gif" width="600">
+  <img src="https://media1.tenor.com/m/lYGdpesaRRwAAAAC/anakin-skywalker-star-wars-revenge-of-the-sith.gif" width="500">
 </p>
