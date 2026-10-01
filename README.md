@@ -4,7 +4,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90">
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZekaiDev/anime-reaction-gif/main/wave/1.gif" width="500">
+  Luau • TypeScript • TSX • C
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZekaiDev/anime-reaction-gif/main/wave/1.gif" width="200">
 </p>
