@@ -9,5 +9,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nix3l/wallpapers/master/159084-city-night-stars-sky-lake-lights-Kimi-no-Na-Wa-Your-Name.jpg" width="700">
+  <img src="https://raw.githubusercontent.com/Nix3l/wallpapers/master/159084-city-night-stars-sky-lake-lights-Kimi-no-Na-Wa-Your-Name.jpg" width="500">
 </p>
