@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DmytroVasin/bomber/step5/_readme/step5/4.gif" width="700">
+  <img height="300" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime GIF">
 </p>
