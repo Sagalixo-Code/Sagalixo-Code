@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/franchises/star-wars/star-wars-landscape.gif" width="700">
+  <img src="https://raw.githubusercontent.com/DmytroVasin/bomber/step5/_readme/step5/4.gif" width="700">
 </p>
