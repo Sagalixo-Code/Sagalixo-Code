@@ -1,3 +1,3 @@
 <p align="center">
-  <img height="300" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime GIF">
+  <img src="https://raw.githubusercontent.com/ZekaiDev/anime-reaction-gif/main/evillaugh/1.gif" width="500">
 </p>
