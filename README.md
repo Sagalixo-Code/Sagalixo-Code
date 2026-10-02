@@ -1,4 +1,4 @@
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Yo, wassup!</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="55" title="Luau">&nbsp;&nbsp;
